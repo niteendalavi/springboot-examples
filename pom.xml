@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>hello-user</artifactId>
 	<version>0.0.1</version>
+	<packaging>war</packaging>
 	<name>hello-user</name>
 	<description>Authorization</description>
 	<properties>
